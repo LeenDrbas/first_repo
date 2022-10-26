@@ -1,2 +1,2 @@
 # first_repo
-for meta course
+for Meta course
